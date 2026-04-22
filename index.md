@@ -1,6 +1,6 @@
 # Welcome
 ---
-title: Home
+Home
 ---
 # Oscar Millar
 
