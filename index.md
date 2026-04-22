@@ -7,12 +7,10 @@ Home
 Author, Ghostwriter and Editor.
 
 ## About me
-I specialise in lifestyle, 
-smart-thinking, sport and comedy books.
-Reach out to discuss your project.
-Whatever stage you are at.
+I specialise in smart-thinking, sport and comedy books.
 
-See the projects page for examples
+
+See the [projects](projects.md) page for examples
 of my past work.
 
 ## Contact
