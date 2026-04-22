@@ -1,3 +1,7 @@
-theme: minima
-title: Oscar Millar Author Services
-description: Ghostwriter, Editor and Author
+theme: jekyll-theme-cayman
+title: Oscar Millar Literary
+description: Ghostwriter | Editor | Author
+header_pages:
+  - about.md
+  - writing.md
+  - contact.md
