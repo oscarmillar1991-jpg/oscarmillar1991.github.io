@@ -2,11 +2,13 @@
 
 Hi, I’m Oscar Millar
 
-This is my website.
+Author, Ghostwriter and Editor.
 
 ## About me
-A ghostwriter specialising in lifestyle, 
+I specialise in lifestyle, 
 smart-thinking, sport and comedy books.
+Reach out to discuss your project.
+Whatever stage you are at.
 
 
 ## Contact
